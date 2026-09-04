@@ -26,3 +26,7 @@ dsh plugin --profile web remove dsh-browser-use
 ```
 
 然后**彻底重启 dsh** 即可生效。如需一并清理浏览数据，删除目录 `~/.dsh/browser-use/`（内含独立 profile、缓存与截图）。
+
+---
+
+*社区第三方插件，与 DeepSeek 官方无隶属关系；dsh 及相关名称归其各自所有者。*

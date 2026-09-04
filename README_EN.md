@@ -26,3 +26,7 @@ dsh plugin --profile web remove dsh-browser-use
 ```
 
 Then **fully restart dsh**. To also wipe browsing data, delete `~/.dsh/browser-use/` (contains the isolated profile, cache and screenshots).
+
+---
+
+*Community third-party plugin, not affiliated with or endorsed by DeepSeek; dsh and related names belong to their respective owners.*
