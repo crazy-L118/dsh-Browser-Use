@@ -1,4 +1,4 @@
-# dsh-browser-use
+# dsh-browser-ctrl
 
 [简体中文](README.md) | English
 
@@ -16,7 +16,7 @@
 Requirements: `dsh` installed; Microsoft Edge or Google Chrome on the machine.
 
 ```bash
-dsh plugin --profile web add npm:dsh-browser-use
+dsh plugin --profile web add npm:dsh-browser-ctrl
 ```
 
 **Fully restart dsh** after installing (plugins load at startup; refreshing the page is not enough).
@@ -24,7 +24,7 @@ dsh plugin --profile web add npm:dsh-browser-use
 ## Uninstall
 
 ```bash
-dsh plugin --profile web remove dsh-browser-use
+dsh plugin --profile web remove dsh-browser-ctrl
 ```
 
 Then **fully restart dsh**. To also wipe browsing data, delete `~/.dsh/browser-use/` (contains the isolated profile, cache and screenshots).

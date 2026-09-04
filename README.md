@@ -1,4 +1,4 @@
-# dsh-browser-use
+# dsh-browser-ctrl
 
 简体中文 | [English](README_EN.md)
 
@@ -16,7 +16,7 @@
 前置要求：已安装 dsh；本机装有 Microsoft Edge 或 Google Chrome。
 
 ```bash
-dsh plugin --profile web add npm:dsh-browser-use
+dsh plugin --profile web add npm:dsh-browser-ctrl
 ```
 
 安装后**彻底重启 dsh**（插件在 dsh 启动时加载，仅刷新页面不生效）。
@@ -24,7 +24,7 @@ dsh plugin --profile web add npm:dsh-browser-use
 ## 卸载
 
 ```bash
-dsh plugin --profile web remove dsh-browser-use
+dsh plugin --profile web remove dsh-browser-ctrl
 ```
 
 然后**彻底重启 dsh** 即可生效。如需一并清理浏览数据，删除目录 `~/.dsh/browser-use/`（内含独立 profile、缓存与截图）。

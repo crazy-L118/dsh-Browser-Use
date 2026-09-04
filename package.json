@@ -1,5 +1,5 @@
 {
-  "name": "dsh-browser-use",
+  "name": "dsh-browser-ctrl",
   "version": "0.1.0",
   "type": "module",
   "description": "Built-in browser control for dsh (DeepSeek Harness): lets the AI agent open pages, read content, click, type, scroll and take screenshots in a real local browser (Edge/Chrome via the Chrome DevTools Protocol). Includes a docked live browser pane (CDP screencast streaming, tab strip, element picker, DevTools entry, auto-expand on AI activity) and a settings page (master switch, certificate toggle, cache/data clearing). Zero external dependencies.",
@@ -33,7 +33,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crazy-L118/dsh-Browser-Use.git"
+    "url": "git+https://github.com/crazy-L118/dsh-Browser-Ctrl.git"
   },
   "license": "MIT",
   "dsh": {
