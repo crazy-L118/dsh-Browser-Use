@@ -1,5 +1,7 @@
 # dsh-browser-use
 
+简体中文 | [English](README_EN.md)
+
 🧭 给 [dsh（DeepSeek Harness）](https://deepseek.com) 的内置浏览器插件 —— 让 AI 拥有一个真实可控的浏览器，全程在本机完成。
 
 ## 功能

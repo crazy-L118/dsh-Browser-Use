@@ -1,5 +1,7 @@
 # dsh-browser-use
 
+[简体中文](README.md) | English
+
 🧭 Built-in browser plugin for [dsh (DeepSeek Harness)](https://deepseek.com) — gives AI sessions a **real, controllable browser**, entirely on your local machine.
 
 ## Features
